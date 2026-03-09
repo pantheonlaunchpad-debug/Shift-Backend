@@ -4,10 +4,10 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "start": "bun index.ts",             // Production mode
-    "dev": "bun --watch index.ts",       // Development with auto-reload
-    "lint": "bun lint",                  // Optional if you add a linter
-    "test": "bun test"                   // Optional if you add tests
+    "start": "bun index.ts",             
+    "dev": "bun --watch index.ts",       
+    "lint": "bun lint",                  
+    "test": "bun test",            
   },
   "devDependencies": {
     "@types/bcrypt": "^6.0.0",
