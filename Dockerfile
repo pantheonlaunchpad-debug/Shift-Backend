@@ -1,5 +1,5 @@
 # Use the official Bun image
-FROM jarredsumner/bun:latest
+FROM bun/bun:edge
 
 # Set working directory inside the container
 WORKDIR /app
