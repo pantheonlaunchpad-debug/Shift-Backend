@@ -7,7 +7,7 @@
     "start": "bun index.ts",             
     "dev": "bun --watch index.ts",       
     "lint": "bun lint",                  
-    "test": "bun test",            
+    "test": "bun test"          
   },
   "devDependencies": {
     "@types/bcrypt": "^6.0.0",
